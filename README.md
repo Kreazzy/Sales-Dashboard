@@ -1,6 +1,6 @@
 ## Dive Deeper into Your Sales Data: An Interactive Power BI Dashboard
 
-(https://ibb.co/hRTr4Px)
+[(https://ibb.co/hRTr4Px)](https://github.com/Kreazzy/Sales-Dashboard/blob/Kreazzy/output.jpg)
 
 **Unlock the power of your sales data and gain actionable insights with this interactive Power BI dashboard.** This project empowers you to analyze sales performance, identify trends, and make data-driven decisions to optimize your sales strategies.
 
